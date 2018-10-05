@@ -1,0 +1,57 @@
+c:\users\tahir\documents\visual studio 2010\Projects\Property Dealing\Property Dealing\bin\Debug\Property Dealing.exe
+c:\users\tahir\documents\visual studio 2010\Projects\Property Dealing\Property Dealing\bin\Debug\Property Dealing.pdb
+c:\users\tahir\documents\visual studio 2010\Projects\Property Dealing\Property Dealing\obj\x86\Debug\Property_Dealing.Properties.Resources.resources
+c:\users\tahir\documents\visual studio 2010\Projects\Property Dealing\Property Dealing\obj\x86\Debug\Property Dealing.csproj.GenerateResource.Cache
+c:\users\tahir\documents\visual studio 2010\Projects\Property Dealing\Property Dealing\obj\x86\Debug\Property Dealing.exe
+c:\users\tahir\documents\visual studio 2010\Projects\Property Dealing\Property Dealing\obj\x86\Debug\Property Dealing.pdb
+c:\users\tahir\documents\visual studio 2010\Projects\Property Dealing\Property Dealing\obj\x86\Debug\Property_Dealing.Main.resources
+c:\users\tahir\documents\visual studio 2010\Projects\Property Dealing\Property Dealing\obj\x86\Debug\Property_Dealing.Customers.resources
+c:\users\tahir\documents\visual studio 2010\Projects\Property Dealing\Property Dealing\obj\x86\Debug\Property_Dealing.Plots.resources
+c:\users\tahir\documents\visual studio 2010\Projects\Property Dealing\Property Dealing\obj\x86\Debug\Property_Dealing.Agents.resources
+C:\Users\tahir\Documents\Visual Studio 2010\Projects\Property Dealing\Property Dealing\obj\x86\Debug\Property_Dealing.Deals.resources
+C:\Users\tahir\Documents\Visual Studio 2010\Projects\Property Dealing\Property Dealing\obj\x86\Debug\Property Dealing.csprojResolveAssemblyReference.cache
+C:\Users\tahir\Documents\Visual Studio 2010\Projects\Property Dealing\Property Dealing\obj\x86\Debug\Property_Dealing.comissions.resources
+C:\Users\tahir\Documents\Visual Studio 2010\Projects\Property Dealing\Property Dealing\obj\x86\Debug\Property_Dealing.Com.resources
+C:\Users\tahir\documents\visual studio 2010\Projects\Property Dealing\Property Dealing\obj\x86\Debug\Property_Dealing.Backup.resources
+C:\Users\tahir\documents\visual studio 2010\Projects\Property Dealing\Property Dealing\bin\Debug\Property Dealing.exe.manifest
+C:\Users\tahir\documents\visual studio 2010\Projects\Property Dealing\Property Dealing\bin\Debug\Property Dealing.application
+C:\Users\tahir\documents\visual studio 2010\Projects\Property Dealing\Property Dealing\obj\x86\Debug\Property Dealing.exe.manifest
+C:\Users\tahir\documents\visual studio 2010\Projects\Property Dealing\Property Dealing\obj\x86\Debug\Property Dealing.application
+C:\Users\tahir\Documents\Visual Studio 2010\Projects\Property Dealing\Property Dealing\bin\Debug\Property Dealing.exe.config
+C:\Users\tahir\Documents\Visual Studio 2010\Projects\Property Dealing\Property Dealing\obj\x86\Debug\Property_Dealing.Print_Customer.resources
+C:\Users\tahir\Documents\Visual Studio 2010\Projects\Property Dealing\Property Dealing\obj\x86\Debug\RdlCompile.cache
+C:\Users\tahir\Documents\Visual Studio 2010\Projects\Property Dealing\Property Dealing\obj\x86\Debug\RdlCompile.compiled
+C:\Users\tahir\Documents\Visual Studio 2010\Projects\Property Dealing\Property Dealing\obj\x86\Debug\Property_Dealing.Installments_Report.resources
+C:\Users\tahir\Documents\Visual Studio 2010\Projects\Property Dealing\Property Dealing\obj\x86\Debug\Property_Dealing.Login.resources
+C:\Users\tahir\Documents\Visual Studio 2010\Projects\Property Dealing\Property Dealing\obj\x86\Debug\Property_Dealing.Comission_Report.resources
+C:\Users\tahir\documents\visual studio 2010\Projects\Property Dealing\Property Dealing\obj\x86\Debug\Property_Dealing.com_rep.resources
+F:\before window 8.1\DF's\Documents\Visual Studio 2010\Projects\Property Dealing\Property Dealing\bin\Debug\Property Dealing.exe.config
+F:\before window 8.1\DF's\Documents\Visual Studio 2010\Projects\Property Dealing\Property Dealing\obj\x86\Debug\Property Dealing.exe
+F:\before window 8.1\DF's\Documents\Visual Studio 2010\Projects\Property Dealing\Property Dealing\obj\x86\Debug\Property Dealing.pdb
+F:\before window 8.1\DF's\Documents\Visual Studio 2010\Projects\Property Dealing\Property Dealing\bin\Debug\Property Dealing.exe.manifest
+F:\before window 8.1\DF's\Documents\Visual Studio 2010\Projects\Property Dealing\Property Dealing\bin\Debug\Property Dealing.application
+F:\before window 8.1\DF's\Documents\Visual Studio 2010\Projects\Property Dealing\Property Dealing\bin\Debug\Property Dealing.exe
+F:\before window 8.1\DF's\Documents\Visual Studio 2010\Projects\Property Dealing\Property Dealing\bin\Debug\Property Dealing.pdb
+F:\before window 8.1\DF's\Documents\Visual Studio 2010\Projects\Property Dealing\Property Dealing\obj\x86\Debug\Property Dealing.csprojResolveAssemblyReference.cache
+F:\before window 8.1\DF's\Documents\Visual Studio 2010\Projects\Property Dealing\Property Dealing\obj\x86\Debug\Property_Dealing.Agents.resources
+F:\before window 8.1\DF's\Documents\Visual Studio 2010\Projects\Property Dealing\Property Dealing\obj\x86\Debug\Property_Dealing.Backup.resources
+F:\before window 8.1\DF's\Documents\Visual Studio 2010\Projects\Property Dealing\Property Dealing\obj\x86\Debug\Property_Dealing.com_rep.resources
+F:\before window 8.1\DF's\Documents\Visual Studio 2010\Projects\Property Dealing\Property Dealing\obj\x86\Debug\Property_Dealing.Com.resources
+F:\before window 8.1\DF's\Documents\Visual Studio 2010\Projects\Property Dealing\Property Dealing\obj\x86\Debug\Property_Dealing.Comission_Report.resources
+F:\before window 8.1\DF's\Documents\Visual Studio 2010\Projects\Property Dealing\Property Dealing\obj\x86\Debug\Property_Dealing.comissions.resources
+F:\before window 8.1\DF's\Documents\Visual Studio 2010\Projects\Property Dealing\Property Dealing\obj\x86\Debug\Property_Dealing.Customers.resources
+F:\before window 8.1\DF's\Documents\Visual Studio 2010\Projects\Property Dealing\Property Dealing\obj\x86\Debug\Property_Dealing.Deals.resources
+F:\before window 8.1\DF's\Documents\Visual Studio 2010\Projects\Property Dealing\Property Dealing\obj\x86\Debug\Property_Dealing.Installments_Report.resources
+F:\before window 8.1\DF's\Documents\Visual Studio 2010\Projects\Property Dealing\Property Dealing\obj\x86\Debug\Property_Dealing.Login.resources
+F:\before window 8.1\DF's\Documents\Visual Studio 2010\Projects\Property Dealing\Property Dealing\obj\x86\Debug\Property_Dealing.Main.resources
+F:\before window 8.1\DF's\Documents\Visual Studio 2010\Projects\Property Dealing\Property Dealing\obj\x86\Debug\Property_Dealing.Plots.resources
+F:\before window 8.1\DF's\Documents\Visual Studio 2010\Projects\Property Dealing\Property Dealing\obj\x86\Debug\Property_Dealing.Print_Customer.resources
+F:\before window 8.1\DF's\Documents\Visual Studio 2010\Projects\Property Dealing\Property Dealing\obj\x86\Debug\Property_Dealing.Properties.Resources.resources
+F:\before window 8.1\DF's\Documents\Visual Studio 2010\Projects\Property Dealing\Property Dealing\obj\x86\Debug\Property Dealing.csproj.GenerateResource.Cache
+F:\before window 8.1\DF's\Documents\Visual Studio 2010\Projects\Property Dealing\Property Dealing\obj\x86\Debug\RdlCompile.cache
+F:\before window 8.1\DF's\Documents\Visual Studio 2010\Projects\Property Dealing\Property Dealing\obj\x86\Debug\RdlCompile.compiled
+F:\before window 8.1\DF's\Documents\Visual Studio 2010\Projects\Property Dealing\Property Dealing\obj\x86\Debug\Property Dealing.exe.manifest
+F:\before window 8.1\DF's\Documents\Visual Studio 2010\Projects\Property Dealing\Property Dealing\obj\x86\Debug\Property Dealing.application
+C:\Users\Tahir Aziz\Documents\Visual Studio 2010\Projects\Property Dealing\Property Dealing\bin\Debug\Property Dealing.exe.config
+C:\Users\Tahir Aziz\Documents\Visual Studio 2010\Projects\Property Dealing\Property Dealing\obj\x86\Debug\Property Dealing.exe
+C:\Users\Tahir Aziz\Documents\Visual Studio 2010\Projects\Property Dealing\Property Dealing\obj\x86\Debug\Property Dealing.pdb
